@@ -18,7 +18,7 @@ Features
 Getting and Installing the Theme
 --------
 
-1. Grab a copy of this theme or Clone this theme, E.g. go to the themes folder then run ` git clone https://github.com/Amarelo-Manga/base-theme-wp`
+1. Grab a copy of this theme or Clone this theme, E.g. go to the themes folder then run ` git clone https://github.com/ElvisBM/base-theme-wp`
 
 2. Building the theme requires [node.js](http://nodejs.org/download/). We recommend you update to the latest version of npm: `npm install -g npm@latest`.
 
